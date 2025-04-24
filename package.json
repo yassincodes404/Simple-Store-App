@@ -1,0 +1,20 @@
+{
+  "name": "simple-store-app",
+  "version": "1.0.0",
+  "description": "Builid a Store Web app with NodeJs  , HTML , CSS with API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassincodes404/Simple-Store-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassincodes404/Simple-Store-App/issues"
+  },
+  "homepage": "https://github.com/yassincodes404/Simple-Store-App#readme"
+}
