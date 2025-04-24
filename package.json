@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/yassincodes404/Simple-Store-App/issues"
   },
-  "homepage": "https://github.com/yassincodes404/Simple-Store-App#readme"
+  "homepage": "https://github.com/yassincodes404/Simple-Store-App#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongose": "^0.0.2-security"
+  }
 }
